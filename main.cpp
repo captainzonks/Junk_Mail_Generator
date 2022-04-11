@@ -4,9 +4,8 @@
 ///////////////////////////////////////////////////////////////////
 // Junk Mail Generator
 //
-// Takes a provided input file, with a single string of #N#,
-// and generates an output file with the #N# replaced by a name
-// provided by an input prompt.
+// Takes a provided input file, within which is a single string of #N#,
+// and generates an output file with the #N# replaced by a prompted name.
 //
 // Will throw errors if input or output files fail to open.
 ///////////////////////////////////////////////////////////////////
